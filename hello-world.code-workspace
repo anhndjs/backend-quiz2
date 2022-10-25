@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../hello-world"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../../GraphQl"
+		}
+	],
+	"settings": {}
+}
